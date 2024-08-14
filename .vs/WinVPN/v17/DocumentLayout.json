@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.NET\\Flothers Tasks\\Las\\winvpn-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE8B641-27FB-4C87-9FB8-6EBB81968E62}|WinVPN\\WinVPN.csproj|e:\\.net\\flothers tasks\\las\\winvpn-main\\winvpn\\core\\connectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE8B641-27FB-4C87-9FB8-6EBB81968E62}|WinVPN\\WinVPN.csproj|solutionrelative:winvpn\\core\\connectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE8B641-27FB-4C87-9FB8-6EBB81968E62}|WinVPN\\WinVPN.csproj|e:\\.net\\flothers tasks\\las\\winvpn-main\\winvpn\\core\\connectionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE8B641-27FB-4C87-9FB8-6EBB81968E62}|WinVPN\\WinVPN.csproj|solutionrelative:winvpn\\core\\connectionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE8B641-27FB-4C87-9FB8-6EBB81968E62}|WinVPN\\WinVPN.csproj|e:\\.net\\flothers tasks\\las\\winvpn-main\\winvpn\\core\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE8B641-27FB-4C87-9FB8-6EBB81968E62}|WinVPN\\WinVPN.csproj|solutionrelative:winvpn\\core\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE8B641-27FB-4C87-9FB8-6EBB81968E62}|WinVPN\\WinVPN.csproj|e:\\.net\\flothers tasks\\las\\winvpn-main\\winvpn\\core\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE8B641-27FB-4C87-9FB8-6EBB81968E62}|WinVPN\\WinVPN.csproj|solutionrelative:winvpn\\core\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE8B641-27FB-4C87-9FB8-6EBB81968E62}|WinVPN\\WinVPN.csproj|e:\\.net\\flothers tasks\\las\\winvpn-main\\winvpn\\core\\serverbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE8B641-27FB-4C87-9FB8-6EBB81968E62}|WinVPN\\WinVPN.csproj|solutionrelative:winvpn\\core\\serverbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE8B641-27FB-4C87-9FB8-6EBB81968E62}|WinVPN\\WinVPN.csproj|e:\\.net\\flothers tasks\\las\\winvpn-main\\winvpn\\mvvm\\viewmodel\\protectionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE8B641-27FB-4C87-9FB8-6EBB81968E62}|WinVPN\\WinVPN.csproj|solutionrelative:winvpn\\mvvm\\viewmodel\\protectionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE8B641-27FB-4C87-9FB8-6EBB81968E62}|WinVPN\\WinVPN.csproj|e:\\.net\\flothers tasks\\las\\winvpn-main\\winvpn\\mvvm\\view\\protectionview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3AE8B641-27FB-4C87-9FB8-6EBB81968E62}|WinVPN\\WinVPN.csproj|solutionrelative:winvpn\\mvvm\\view\\protectionview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE8B641-27FB-4C87-9FB8-6EBB81968E62}|WinVPN\\WinVPN.csproj|e:\\.net\\flothers tasks\\las\\winvpn-main\\winvpn\\core\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE8B641-27FB-4C87-9FB8-6EBB81968E62}|WinVPN\\WinVPN.csproj|solutionrelative:winvpn\\core\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE8B641-27FB-4C87-9FB8-6EBB81968E62}|WinVPN\\WinVPN.csproj|e:\\.net\\flothers tasks\\las\\winvpn-main\\winvpn\\core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE8B641-27FB-4C87-9FB8-6EBB81968E62}|WinVPN\\WinVPN.csproj|solutionrelative:winvpn\\core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE8B641-27FB-4C87-9FB8-6EBB81968E62}|WinVPN\\WinVPN.csproj|e:\\.net\\flothers tasks\\las\\winvpn-main\\winvpn\\mvvm\\model\\servermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE8B641-27FB-4C87-9FB8-6EBB81968E62}|WinVPN\\WinVPN.csproj|solutionrelative:winvpn\\mvvm\\model\\servermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE8B641-27FB-4C87-9FB8-6EBB81968E62}|WinVPN\\WinVPN.csproj|e:\\.net\\flothers tasks\\las\\winvpn-main\\winvpn\\interop\\windowsnativehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE8B641-27FB-4C87-9FB8-6EBB81968E62}|WinVPN\\WinVPN.csproj|solutionrelative:winvpn\\interop\\windowsnativehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE8B641-27FB-4C87-9FB8-6EBB81968E62}|WinVPN\\WinVPN.csproj|e:\\.net\\flothers tasks\\las\\winvpn-main\\winvpn\\mvvm\\viewmodel\\torviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE8B641-27FB-4C87-9FB8-6EBB81968E62}|WinVPN\\WinVPN.csproj|solutionrelative:winvpn\\mvvm\\viewmodel\\torviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE8B641-27FB-4C87-9FB8-6EBB81968E62}|WinVPN\\WinVPN.csproj|e:\\.net\\flothers tasks\\las\\winvpn-main\\winvpn\\mvvm\\viewmodel\\settingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE8B641-27FB-4C87-9FB8-6EBB81968E62}|WinVPN\\WinVPN.csproj|solutionrelative:winvpn\\mvvm\\viewmodel\\settingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "E:\\.NET\\Flothers Tasks\\Las\\winvpn-main\\WinVPN\\Core\\FileLogger.cs",
+              "RelativeDocumentMoniker": "WinVPN\\Core\\FileLogger.cs",
+              "ToolTip": "E:\\.NET\\Flothers Tasks\\Las\\winvpn-main\\WinVPN\\Core\\FileLogger.cs",
+              "RelativeToolTip": "WinVPN\\Core\\FileLogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:37:00.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProtectionView.xaml",
+              "DocumentMoniker": "E:\\.NET\\Flothers Tasks\\Las\\winvpn-main\\WinVPN\\MVVM\\View\\ProtectionView.xaml",
+              "RelativeDocumentMoniker": "WinVPN\\MVVM\\View\\ProtectionView.xaml",
+              "ToolTip": "E:\\.NET\\Flothers Tasks\\Las\\winvpn-main\\WinVPN\\MVVM\\View\\ProtectionView.xaml",
+              "RelativeToolTip": "WinVPN\\MVVM\\View\\ProtectionView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-13T08:33:04.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServerBuilder.cs",
+              "DocumentMoniker": "E:\\.NET\\Flothers Tasks\\Las\\winvpn-main\\WinVPN\\Core\\ServerBuilder.cs",
+              "RelativeDocumentMoniker": "WinVPN\\Core\\ServerBuilder.cs",
+              "ToolTip": "E:\\.NET\\Flothers Tasks\\Las\\winvpn-main\\WinVPN\\Core\\ServerBuilder.cs",
+              "RelativeToolTip": "WinVPN\\Core\\ServerBuilder.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwCcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T12:28:48.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProtectionViewModel.cs",
+              "DocumentMoniker": "E:\\.NET\\Flothers Tasks\\Las\\winvpn-main\\WinVPN\\MVVM\\ViewModel\\ProtectionViewModel.cs",
+              "RelativeDocumentMoniker": "WinVPN\\MVVM\\ViewModel\\ProtectionViewModel.cs",
+              "ToolTip": "E:\\.NET\\Flothers Tasks\\Las\\winvpn-main\\WinVPN\\MVVM\\ViewModel\\ProtectionViewModel.cs",
+              "RelativeToolTip": "WinVPN\\MVVM\\ViewModel\\ProtectionViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T12:27:58.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConnectionService.cs",
+              "DocumentMoniker": "E:\\.NET\\Flothers Tasks\\Las\\winvpn-main\\WinVPN\\Core\\ConnectionService.cs",
+              "RelativeDocumentMoniker": "WinVPN\\Core\\ConnectionService.cs",
+              "ToolTip": "E:\\.NET\\Flothers Tasks\\Las\\winvpn-main\\WinVPN\\Core\\ConnectionService.cs",
+              "RelativeToolTip": "WinVPN\\Core\\ConnectionService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T12:29:08.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConnectionStatus.cs",
+              "DocumentMoniker": "E:\\.NET\\Flothers Tasks\\Las\\winvpn-main\\WinVPN\\Core\\ConnectionStatus.cs",
+              "RelativeDocumentMoniker": "WinVPN\\Core\\ConnectionStatus.cs",
+              "ToolTip": "E:\\.NET\\Flothers Tasks\\Las\\winvpn-main\\WinVPN\\Core\\ConnectionStatus.cs",
+              "RelativeToolTip": "WinVPN\\Core\\ConnectionStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T12:29:03.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "E:\\.NET\\Flothers Tasks\\Las\\winvpn-main\\WinVPN\\Core\\Extensions.cs",
+              "RelativeDocumentMoniker": "WinVPN\\Core\\Extensions.cs",
+              "ToolTip": "E:\\.NET\\Flothers Tasks\\Las\\winvpn-main\\WinVPN\\Core\\Extensions.cs",
+              "RelativeToolTip": "WinVPN\\Core\\Extensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T12:30:26.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServerModel.cs",
+              "DocumentMoniker": "E:\\.NET\\Flothers Tasks\\Las\\winvpn-main\\WinVPN\\MVVM\\Model\\ServerModel.cs",
+              "RelativeDocumentMoniker": "WinVPN\\MVVM\\Model\\ServerModel.cs",
+              "ToolTip": "E:\\.NET\\Flothers Tasks\\Las\\winvpn-main\\WinVPN\\MVVM\\Model\\ServerModel.cs",
+              "RelativeToolTip": "WinVPN\\MVVM\\Model\\ServerModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T12:29:51.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "E:\\.NET\\Flothers Tasks\\Las\\winvpn-main\\WinVPN\\Core\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "WinVPN\\Core\\RelayCommand.cs",
+              "ToolTip": "E:\\.NET\\Flothers Tasks\\Las\\winvpn-main\\WinVPN\\Core\\RelayCommand.cs",
+              "RelativeToolTip": "WinVPN\\Core\\RelayCommand.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T12:28:56.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ObservableObject.cs",
+              "DocumentMoniker": "E:\\.NET\\Flothers Tasks\\Las\\winvpn-main\\WinVPN\\Core\\ObservableObject.cs",
+              "RelativeDocumentMoniker": "WinVPN\\Core\\ObservableObject.cs",
+              "ToolTip": "E:\\.NET\\Flothers Tasks\\Las\\winvpn-main\\WinVPN\\Core\\ObservableObject.cs",
+              "RelativeToolTip": "WinVPN\\Core\\ObservableObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T12:29:01.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WindowsNativeHandler.cs",
+              "DocumentMoniker": "E:\\.NET\\Flothers Tasks\\Las\\winvpn-main\\WinVPN\\Interop\\WindowsNativeHandler.cs",
+              "RelativeDocumentMoniker": "WinVPN\\Interop\\WindowsNativeHandler.cs",
+              "ToolTip": "E:\\.NET\\Flothers Tasks\\Las\\winvpn-main\\WinVPN\\Interop\\WindowsNativeHandler.cs",
+              "RelativeToolTip": "WinVPN\\Interop\\WindowsNativeHandler.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAgwA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T12:29:44.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TorViewModel.cs",
+              "DocumentMoniker": "E:\\.NET\\Flothers Tasks\\Las\\winvpn-main\\WinVPN\\MVVM\\ViewModel\\TorViewModel.cs",
+              "RelativeDocumentMoniker": "WinVPN\\MVVM\\ViewModel\\TorViewModel.cs",
+              "ToolTip": "E:\\.NET\\Flothers Tasks\\Las\\winvpn-main\\WinVPN\\MVVM\\ViewModel\\TorViewModel.cs",
+              "RelativeToolTip": "WinVPN\\MVVM\\ViewModel\\TorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T12:29:27.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SettingsViewModel.cs",
+              "DocumentMoniker": "E:\\.NET\\Flothers Tasks\\Las\\winvpn-main\\WinVPN\\MVVM\\ViewModel\\SettingsViewModel.cs",
+              "RelativeDocumentMoniker": "WinVPN\\MVVM\\ViewModel\\SettingsViewModel.cs",
+              "ToolTip": "E:\\.NET\\Flothers Tasks\\Las\\winvpn-main\\WinVPN\\MVVM\\ViewModel\\SettingsViewModel.cs",
+              "RelativeToolTip": "WinVPN\\MVVM\\ViewModel\\SettingsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T12:29:31.501Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+﻿WinVPN
+1.0.0.0
+
+winexe
+C#
+.cs
+E:\.NET\Flothers Tasks\Las\winvpn-main\WinVPN\obj\Debug\net8.0-windows\
+WinVPN
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+E:\.NET\Flothers Tasks\Las\winvpn-main\WinVPN\App.xaml
+9-419395171
+
+221851130790
+198-635017904
+MVVM\View\MainWindow.xaml;MVVM\View\ProtectionView.xaml;MVVM\View\SettingsView.xaml;MVVM\View\TorView.xaml;Themes\ConnectButton.Nord.xaml;Themes\LaunchButton.Nord.xaml;Themes\MenuButton.Nord.xaml;Themes\ServerListTheme.Nord.xaml;Themes\TitlebarButton.Nord.xaml;
+
+False
+

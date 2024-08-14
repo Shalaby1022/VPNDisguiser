@@ -1,0 +1,6 @@
+[UK68]
+MEDIA=rastapi
+Port=VPN2-0
+Device=WAN Miniport (IKEv2)
+DEVICE=vpn
+PhoneNumber=UK68.vpnbook.com
